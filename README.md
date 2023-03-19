@@ -17,7 +17,7 @@ My experiences have spanned data clearning, exploratory data analysis, machine l
 * 🤖 [Factors influencing liklihood of ML implemented into production](https://www.kaggle.com/code/katevanpelt/what-influences-the-use-of-ml-in-production)
   * Few ML models are successfully implemented into production. This exploratory analysis cleaned, analyzed, and modeled data to find that the following factors increase liklihood: If the person has ever published, More years of experience, but only after 3 years, Years of experience with ML models, More people working on Data science in the company, Higher salary
 
-# CV
+# 📑 CV
 * [PDF of my CV](https://github.com/kvp1918/cv/blob/main/CV/CV.pdf)
 
 # 💻 Tech Stack:
