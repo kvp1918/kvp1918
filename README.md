@@ -1,7 +1,7 @@
 # 👋 About Me:
 I am a hockey player turned concussion researcher turned startup co-founder turned data scientist. I am interested in analyzing data to derive key actional findings for clinical care and business purposes. Transforming data into action and results.
 
-My experiences have spanned data clearning, exploratory data analysis, machine learning, dashboarding, and deploying production web apps. 
+My experiences have spanned data cleaning, exploratory data analysis, machine learning, dashboarding, and deploying production web apps. 
 
 # 🗃️ Portfolio Projects
 * 🏒 [NHL Goals](https://github.com/kvp1918/tidytues_hockeygoals_python)
