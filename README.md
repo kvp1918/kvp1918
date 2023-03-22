@@ -9,7 +9,7 @@ My experiences have spanned data cleaning, exploratory data analysis, machine le
 * 🏀 [2023 March Madness Competition](https://www.kaggle.com/code/katevanpelt/2023-ncaa-march-madness-predictions)
   * A Kaggle competion to predict 2023 March Madness results for both Men's and Women's tournaments.
 * 🆎 [A/B Test Analysis of Campaign](https://github.com/kvp1918/ab_test)
- * Analysis of an A/B test to determine whether campaign increased number of purchases. Results are summarized in Tableau dashboard [here](https://public.tableau.com/app/profile/kate.van.pelt/viz/ABTestExample_16793437074840/Dashboard1).
+  * Analysis of an A/B test to determine whether campaign increased number of purchases. Results are summarized in Tableau dashboard [here](https://public.tableau.com/app/profile/kate.van.pelt/viz/ABTestExample_16793437074840/Dashboard1).
 * 🏎️ [F1 Dashboard](https://kvp1918.shinyapps.io/f1_dashboard/)
   * This project visually displays F1 data for different teams and racers over the years. This dashboard was build via Shiny and deployed via Shinyapps.io.
 * 🧠 [Classifying Concussion Rates](https://pubmed.ncbi.nlm.nih.gov/33721284/)
