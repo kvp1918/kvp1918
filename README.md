@@ -4,6 +4,8 @@ I am a hockey player turned concussion researcher turned startup co-founder turn
 My experiences have spanned data cleaning, exploratory data analysis, machine learning, dashboarding, and deploying production web apps. 
 
 # 🗃️ Portfolio Projects
+* 👍 [Disney Recommendation System](https://github.com/kvp1918/disney_recommendator)
+  *  Using data from Disney movies and shows I created a content Recommendation system that will suggest 10 movies/shows based on one you select. 
 * 🏒 [NHL Goals](https://github.com/kvp1918/tidytues_hockeygoals_python)
   *  Using Python and data from TidyTuesday I preprocessed and analyzed data from top goal scorers in the NHL to understand whether it was easier to score goals in previous years, whether goal production decreases with age, and who is the most efficient top goal scorer.
 * 🏀 [2023 March Madness Competition](https://www.kaggle.com/code/katevanpelt/2023-ncaa-march-madness-predictions)
