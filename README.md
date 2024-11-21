@@ -4,6 +4,8 @@ I am a hockey player turned concussion researcher turned startup co-founder turn
 My experiences have spanned data cleaning, exploratory data analysis, machine learning, dashboarding, and deploying production web apps. 
 
 # 🗃️ Portfolio Projects
+* 💰 [Loan Approval Feature Importance and Bias Assessment](https://github.com/kvp1918/loan_prediction)
+ * Using data from Kaggle, I evaluated which features were most important in predicting loan approvals. I also assessed for model bias across gender, education, and self-employment statuses.
 * 👍 [Disney Recommendation System](https://github.com/kvp1918/disney_recommendator)
   *  Using data from Disney movies and shows I created a content Recommendation system that will suggest 10 movies/shows based on one you select. 
 * 🏒 [NHL Goals](https://github.com/kvp1918/tidytues_hockeygoals_python)
